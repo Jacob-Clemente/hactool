@@ -1,0 +1,5 @@
+project: jacob-clemente/hactool
+target: hactool
+
+cmds:
+  - cmd: /hactool @@
