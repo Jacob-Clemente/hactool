@@ -2,4 +2,4 @@ project: hactool
 target: hactool
 
 cmds:
-  - cmd: /hactool @@ out
+  - cmd: /hactool @@
