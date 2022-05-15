@@ -1,5 +1,5 @@
-project: jacob-clemente/hactool
+project: hactool
 target: hactool
 
 cmds:
-  - cmd: /hactool @@
+  - cmd: /hactool @@ out
